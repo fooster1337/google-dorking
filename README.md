@@ -1,2 +1,5 @@
 # Google Dorker
-Automatic Google Dorker And Support Proxy
+Automatic Google Dorker With Proxy Support And Query Custom!
+
+# Installation
+
