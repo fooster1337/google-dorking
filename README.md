@@ -1,2 +1,2 @@
-# google-dorking
+# Google Dorker
 Automatic Google Dorker And Support Proxy
