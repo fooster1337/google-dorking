@@ -1,0 +1,6 @@
+http://www.google.co.id/search?q={FiolaDork}&num=100&start=0
+http://www.google.co.id/search?q={FiolaDork}&num=100&start=100
+http://www.google.co.id/search?q={FiolaDork}&num=100&start=200
+http://www.google.com/search?q={FiolaDork}&num=100&start=0
+http://www.google.com/search?q={FiolaDork}&num=100&start=100
+http://www.google.com/search?q={FiolaDork}&num=100&start=200
